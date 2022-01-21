@@ -9,8 +9,6 @@
 
 ---
 
-<br />
-
 <img src = "https://github-readme-stats.vercel.app/api?username=overshootinq&show_icons=true&theme=merko" width = 400>
 
 ---
