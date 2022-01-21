@@ -13,5 +13,7 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=overshootinq&show_icons=true&theme=merko" width = 400>
 
+---
+
 [website]: ideatum.xyz
 [linkedin]: https://www.linkedin.com/in/brennanmccandliss/
