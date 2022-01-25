@@ -1,4 +1,4 @@
-### 👋 Hey there, I'm Brennan
+### 👋 Hey there, I'm Brennan                                                           
 
 ## I'm a Developer who's passionate about GNU/Linux and the free software movement.
 
@@ -13,5 +13,5 @@
 
 ---
 
-[website]: ideatum.xyz
+[website]: www.ideatum.xyz
 [linkedin]: https://www.linkedin.com/in/brennanmccandliss/
